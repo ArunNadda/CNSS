@@ -1,3 +1,5 @@
+## Module 5 - Fundamentals of Encryption
+
 ### History of Encryption
 - **Caesar cipher** (is substitution ciphers) - (mono-alphabet substitution method)
     - choose certain numbers by which to shift each letter of text.
@@ -161,3 +163,8 @@ john - wordfile:/usr/share/worklist/rockyou.txt -rules passwd
 - trying every possible key
 - takes long time
 - AES, with 128bits,(if tried by 1 trillion keys a sec, could take xxx years)
+
+
+
+
+#### Continue on to [Module 6 - VPNs](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module6-VPNs.md)
