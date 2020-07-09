@@ -1,4 +1,4 @@
-## IDS Concepts
+## Module 4 - IDS Concepts
 - Six basic approaches.
     - some are used by softwares
     - other are strategies used by orgs.
@@ -75,3 +75,8 @@ snort -c <configfile> -i1 -l <logfile> -A console
     - Warning
 
 - **Symantec Decoy Server**
+
+
+
+
+#### Continue on to [Module 5 - Fundamentals of Encryption](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module5-Fundamentals_of_Encryption.md)
