@@ -1,3 +1,5 @@
+## Module 6 - VPNs
+
 ### Intro to VPN
 - remote users
 - site-to-site connectivity
@@ -128,3 +130,7 @@
     - open source, Linux OS, free, uses IPSec.
     - remote user or site-to-site, supports wireless.
     - does not support NAT.
+
+
+
+#### Continue on to [Module 7 - OS Hardening](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module7-OSHardening.md)
