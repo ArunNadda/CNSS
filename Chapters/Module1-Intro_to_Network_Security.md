@@ -43,12 +43,12 @@
   - most common threat to any systems.
   - designed to spread on their own
   - wildly spread
-  - example - virus - replicate and spread
-      - can spread using addressbook/emails
-      - can cause networkshutdowns/heavy network Traffic
+  - example - virus - replicate and spread  
+      - can spread using addressbook/emails  
+      - can cause networkshutdowns/heavy network Traffic  
   - Trojan horse
-      - secretly downloads a virus or malware.
-      - more likely to be found in illegitimate softwares or pirated copies of softwares.
+      - secretly downloads a virus or malware.  
+      - more likely to be found in illegitimate softwares or pirated copies of softwares.  
   - Spywares
       - increasing at pace
       - spies on computer
