@@ -1,3 +1,5 @@
+## MOdule 2 - Type of Attacks.
+
 ### 1. Denial of Service Attacks (DoS/DDoS)
 - **SYN Flood**
    - uses TCP SYN
@@ -62,3 +64,11 @@
 - this is because authentication is done mostly only at the start of TCP Session.
 - **using source-routed IP packets** - MITM.
 - The point of hijacking a connection is to exploit trust and gain access into a system.
+
+
+  
+    
+      
+
+
+Continue on to [Module 3 - Fundamentals of Firewalls](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module3-FundamentalsOfFirewalls.md)
