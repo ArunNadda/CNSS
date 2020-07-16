@@ -10,3 +10,4 @@
 6. [Module 6 - VPNs](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module6-VPNs.md)
 7. [Module 7 - OS Hardening](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module7-OSHardening.md)
 8. [Module 8 - Virus Attacks and How to Defend](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module8-VirusAttacks-and-HowtoDefend.md)
+9. [Module 9 - Security Policies](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module9-Security_Policies.md)
