@@ -12,3 +12,6 @@
 8. [Module 8 - Virus Attacks and How to Defend](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module8-VirusAttacks-and-HowtoDefend.md)
 9. [Module 9 - Security Policies](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module9-Security_Policies.md)
 10. [Module 10 - Assessing System Security](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module10-Assessing_System_Security.md)
+11. [Module 11 - Security Standards](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module11-Security_Standards.md)
+12. [Module 12 - Physical Security and Recovery](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module12-Physical_Security_and_Recovery.md)
+13. [Module 13 - Attacker techniques](https://github.com/ArunNadda/CNSS/blob/master/Chapters/Module13-Attacker_techniques.md)
